@@ -17,53 +17,53 @@ _This is a living document and is subject to change._
 
 ## Weekly Schedule
 
-### Week 1: Introduction
+### Week 1
 
 Tuesday 7/9
 
--   Introduction to Machine Learning I
--   p5.js Review Session I
+-   Introduction to Machine Learning
+-   p5.js Review Session
 
 Thursday 7/11
 
--   Introduction to Machine Learning II
--   p5.js Review Session II
+-   Image Classification
+-   ml5.js Coding Session
 
-### Week 2: Pre-trained Models
+### Week 2
 
 Tuesday 7/16
 
--   Hand Models
+-   Transfer Learning
 -   ml5.js Coding Session
 
 Thursday 7/18
 
--   Face Models
+-   Pre-trained Models
 -   ml5.js Coding Session
 
-### Week 3: Neural Networks
+### Week 3
 
 Tuesday 7/23
 
--   Neural Networks: Data Collection & Model Training
+-   Training a Neural Network
 -   ml5.js Coding Session
 
 Thursday 7/25
 
--   Convolutional Neural Networks
+-   Convolutional Neural Network
 -   ml5.js Coding Session
 
-### Week 4: Generative Models
+### Week 4
 
 Tuesday 7/30
 
--   Large Language Models (LLMs)
+-   Text Generation
 
 Thursday 8/1
 
--   Stable Diffusion
+-   Image Generation
 
-### Week 5: Final Project Phase I
+### Week 5
 
 Tuesday 8/6
 
@@ -73,7 +73,7 @@ Thursday 8/8
 
 -   Final Project Prototypes
 
-### Week 6: Final Project Phase II
+### Week 6
 
 Tuesday 8/13
 
