@@ -1,5 +1,6 @@
 # Welcome and Introduction to Machine Learning
 
+[ [Slides](https://docs.google.com/presentation/d/1kAPACuob_EjZHcVd63Sz3-3PrQsUUZon10Dz7_V22wM/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 ## Objectives
 
 -   Define Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).

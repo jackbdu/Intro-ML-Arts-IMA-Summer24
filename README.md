@@ -19,7 +19,7 @@ _This is a living document and is subject to change._
 
 ### Week 1
 
-[Tuesday 7/9](00_intro)
+[Tuesday 7/9](00-intro)
 
 -   Introduction to Machine Learning
 -   p5.js Review Session
