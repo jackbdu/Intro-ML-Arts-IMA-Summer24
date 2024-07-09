@@ -7,19 +7,19 @@ _This is a living document and is subject to change._
 -   IMNY-UT 224 Introduction to Machine Learning for the Arts
 -   Interactive Media Arts (IMA), Tisch School of the Arts, New York University
 -   370 Jay Street, Room 412, Brooklyn, NY 11201
--   Tuesday/Thursday 6:00 PM - 9:30 PM (7/9/2024 - 8/15/2024)
+-   Tuesday/Thursday 6:00 PM – 9:30 PM (7/9/2024 – 8/15/2024)
 
 ## Instructor Info
 
 -   Jack B. Du
 -   jackbdu@nyu.edu
--   Office Hours: TBD
+-   Office Hours: [Monday/Wednesday 2:00 PM – 4:00 PM](https://calendar.app.google/3bKiLqojNgUa6byBA)
 
 ## Weekly Schedule
 
 ### Week 1
 
-Tuesday 7/9
+[Tuesday 7/9](00_intro)
 
 -   Introduction to Machine Learning
 -   p5.js Review Session
