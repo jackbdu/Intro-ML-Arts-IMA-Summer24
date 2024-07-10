@@ -44,4 +44,4 @@
 3. Creating a blog post documenting and reflecting on the following exercises from [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf).
     - When you hear the words "Artificial Intelligence", what are the first four things that come to your mind? (p.11)
     - Answer the questions from the "Everyday AI Activity" on pages 23–28 of the [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf).
-4. Add a link to your post on the [Assignment 1a Wiki page](../../wiki/Assignment-1a). You are welcome to post under a pseudonym or alias.
+4. Add a link to your post on the [Assignment 1a Wiki page](../../../wiki/Assignment-1a). You are welcome to post under a pseudonym or alias.
