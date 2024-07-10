@@ -36,7 +36,7 @@
 -   [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) by Daniel Shiffman
 -   [Creative Coding for Absolute Beginners](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) by Jack B. Du
 
-## Assignment 1a (due at midnight before next class)
+## Assignment 1a
 
 1. Create a blog (or a category on a blog) for the course. (You may use any means for publishing your assignments including, but not limited to, a GitHub markdown file, medium post, etc.) [This wiki page has resources and information on creating your own blog](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Documentation-Blog-Resources). Additionally, here is some [helpful information on privacy options for your blog](https://www.nyu.edu/servicelink/KB0012245).
 2. Read [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf) by Mimi Onuoha and Mother Cyborg (Diana Nucera).
