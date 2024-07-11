@@ -24,7 +24,7 @@ _This is a living document and is subject to change._
 -   Introduction to Machine Learning
 -   p5.js Review Session
 
-Thursday 7/11
+[Thursday 7/11](01-ml5)
 
 -   Image Classification
 -   ml5.js Coding Session
