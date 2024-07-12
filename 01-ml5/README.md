@@ -1,6 +1,6 @@
 ## Introduction to ml5.js and pre-trained models
 
-[ Slides | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
+[ [Slides](https://docs.google.com/presentation/d/1-J2tNmG0lXD5k_K3jJlTvW3SxCKbSO9FvRXGuSuA5Ic/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 
 ### Objectives:
 
