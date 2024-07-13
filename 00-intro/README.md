@@ -8,7 +8,7 @@
 -   Overview of applications of machine learning, especially for art and design.
 -   History of machine learning.
 -   Overview of tools for machine learning.
--   Classification and regression
+-   Classification and regression.
 
 ## Outline
 
@@ -23,12 +23,12 @@
 
 ## Supplemental Materials
 
--   Read [What is machine learning?](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao
--   Read [Data & Society’s Algorithmic Accountability: A Primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf)
--   Watch [Seeing Machines Think — Martin Wattenberg and Fernanda Viégas](https://youtu.be/ugkfmHBW74Q)
--   Watch [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald
+-   Read [What is machine learning?](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao.
+-   Read [Data & Society’s Algorithmic Accountability: A Primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf).
+-   Watch [Seeing Machines Think — Martin Wattenberg and Fernanda Viégas](https://youtu.be/ugkfmHBW74Q).
+-   Watch [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
 
-## p5.js review
+### p5.js review
 
 -   [Learning While Making p5.js with Lauren McCarthy](https://youtu.be/1k3X4DLDHdc)
 -   [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI)
