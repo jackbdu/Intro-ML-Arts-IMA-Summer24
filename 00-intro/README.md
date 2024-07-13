@@ -30,10 +30,10 @@
 
 ### p5.js review
 
--   [Learning While Making p5.js with Lauren McCarthy](https://youtu.be/1k3X4DLDHdc)
--   [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI)
--   [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) by Daniel Shiffman
--   [Creative Coding for Absolute Beginners](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) by Jack B. Du
+-   [Learning While Making p5.js with Lauren McCarthy](https://youtu.be/1k3X4DLDHdc).
+-   [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI).
+-   [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) by Daniel Shiffman.
+-   [Creative Coding for Absolute Beginners](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) by Jack B. Du.
 
 ## Assignment 1a
 
