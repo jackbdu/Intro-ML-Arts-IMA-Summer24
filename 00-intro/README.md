@@ -28,7 +28,7 @@
 -   Watch [Seeing Machines Think — Martin Wattenberg and Fernanda Viégas](https://youtu.be/ugkfmHBW74Q).
 -   Watch [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
 
-### p5.js review
+### p5.js Review
 
 -   [Learning While Making p5.js with Lauren McCarthy](https://youtu.be/1k3X4DLDHdc).
 -   [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI).
