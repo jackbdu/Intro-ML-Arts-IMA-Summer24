@@ -29,18 +29,18 @@
 -   [Classification](https://docs.ml5js.org/#/learn/ml5-glossary?id=classification) refers to predicting an output with a discrete set of possibilities like a set of categories or labels. For example: "Given an input image, is it a dog or cat?"
 -   [Regression](https://docs.ml5js.org/#/learn/ml5-glossary?id=regression-analysis) refers to predicting an "continuous" output (a fancy way of saying number). For example: "Given the number of bedrooms, what is the price of a house?" or "Given an input image of a cat, how much does the cat weigh?"
 
-## Supplemental Materials
-
--   Read [A Brief History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov.
--   Read [ImageNet: The Data That Transformed AI Research—and Possibly the World](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/) by Dave Gershgorn.
--   Watch [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li (_Note: Fei-Fei Li is no longer at Google; she is currently Co-Director of the Stanford Human-Centered AI Institute_).
-
 ### Image classification code examples
 
 -   [Image Classification - Single Image](https://editor.p5js.org/ml5/sketches/pjPr6XmPY)
 -   [Image Classification - Drag and Drop](https://editor.p5js.org/jackbdu/sketches/LKbmAl6o_)
 -   [Image Classification - Webcam](https://editor.p5js.org/ml5/sketches/K0sjaEO19)
 -   [Image Classification - Webcam with Speech Output](https://editor.p5js.org/jackbdu/sketches/Zja0ej8tn)
+
+## Supplemental Materials
+
+-   Read [A Brief History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov.
+-   Read [ImageNet: The Data That Transformed AI Research—and Possibly the World](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/) by Dave Gershgorn.
+-   Watch [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li (_Note: Fei-Fei Li is no longer at Google; she is currently Co-Director of the Stanford Human-Centered AI Institute_).
 
 ### ml5.js video tutorials
 
