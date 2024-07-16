@@ -31,7 +31,7 @@ _This is a living document and is subject to change._
 
 ### Week 2
 
-Tuesday 7/16
+[Tuesday 7/16](02-transfer-learning)
 
 -   Transfer Learning
 -   ml5.js Coding Session
@@ -65,21 +65,21 @@ Thursday 8/1
 
 ### Week 5
 
-Tuesday 8/6
+[Tuesday 8/6](08-final-project)
 
 -   Final Project Proposals
 
-Thursday 8/8
+[Thursday 8/8](08-final-project)
 
 -   Final Project Prototypes
 
 ### Week 6
 
-Tuesday 8/13
+[Tuesday 8/13](08-final-project)
 
 -   Final Project Testing
 
-Thursday 8/15
+[Thursday 8/15](08-final-project)
 
 -   Final Project Presentations
 
