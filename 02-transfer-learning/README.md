@@ -48,6 +48,7 @@
 
 ### Teachable Machine
 
+-   [Teachable Machine 2.0](https://teachablemachine.withgoogle.com)
 -   [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google.
 -   [Teachable Machine video tutorials](https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t) from Experiments with Google.
 -   [Teachable Machine video tutorials](https://thecodingtrain.com/tracks/teachable-machine) by Daniel Shiffman.
