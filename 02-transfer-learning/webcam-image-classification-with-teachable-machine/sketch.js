@@ -4,7 +4,7 @@ let label = "";
 let confidence = "";
 
 function preload() {
-  classifier = ml5.imageClassifier("./my-tm-model/");
+  classifier = ml5.imageClassifier(`${window.location.href}my-tm-model/`);
 }
 
 function setup() {
@@ -21,7 +21,6 @@ function gotResults(results) {
 
 function draw() {
   background(220);
-  // image(video, 0, 0, width, height, 0, 0, video.width, video.height, CONTAIN);
   image(video, 0, 0, width, height, 0, 0, video.width, video.height, COVER);
   strokeWeight(5);
   stroke(0);
