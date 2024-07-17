@@ -39,7 +39,12 @@
 ### Running p5.js Sketches Locally
 
 -   [Running a local server](https://github.com/processing/p5.js/wiki/Local-server)
--   Load a Teachable Machine model locally
+-   Download a Teachable Machine model and load it locally with ml5.js
+
+### Hosting p5.js Sketches on GitHub
+
+-   [Hosting a p5.js sketch with GitHub Pages - video tutorial](https://www.youtube.com/watch?v=ZneWjyn18e8) by Daniel Shiffman
+-   [Webcam Image Classification with Teachable Machine Demo hosted on GitHub](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/) [ [Source Code](webcam-image-classification-with-teachable-machine) ]
 
 ## Supplemental Materials
 
