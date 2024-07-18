@@ -24,7 +24,7 @@ _This is a living document and is subject to change._
 -   Introduction to Machine Learning
 -   p5.js Review Session
 
-[Thursday 7/11](01-ml5)
+[Thursday 7/11](01-image-classification)
 
 -   Image Classification
 -   ml5.js Coding Session
@@ -36,32 +36,32 @@ _This is a living document and is subject to change._
 -   Transfer Learning
 -   ml5.js Coding Session
 
-Thursday 7/18
+[Thursday 7/18](03-body-models)
 
--   Pre-trained Models
+-   Pre-trained Body Models
 -   ml5.js Coding Session
 
 ### Week 3
 
 Tuesday 7/23
 
--   Training a Neural Network
+-   Pre-trained Face and Hand Models
 -   ml5.js Coding Session
 
 Thursday 7/25
 
--   Convolutional Neural Network
+-   Training a Neural Network
 -   ml5.js Coding Session
 
 ### Week 4
 
 Tuesday 7/30
 
--   Text Generation
+-   Convolutional Neural Network
 
 Thursday 8/1
 
--   Image Generation
+-   Recurrent Neural Network
 
 ### Week 5
 

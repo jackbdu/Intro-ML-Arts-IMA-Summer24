@@ -1,4 +1,4 @@
-# Introduction to ml5.js and pre-trained models
+# Introduction to ml5.js and Image Classification
 
 [ [Slides](https://docs.google.com/presentation/d/1-J2tNmG0lXD5k_K3jJlTvW3SxCKbSO9FvRXGuSuA5Ic/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 
@@ -29,7 +29,7 @@
 -   [Classification](https://docs.ml5js.org/#/learn/ml5-glossary?id=classification) refers to predicting an output with a discrete set of possibilities like a set of categories or labels. For example: "Given an input image, is it a dog or cat?"
 -   [Regression](https://docs.ml5js.org/#/learn/ml5-glossary?id=regression-analysis) refers to predicting an "continuous" output (a fancy way of saying number). For example: "Given the number of bedrooms, what is the price of a house?" or "Given an input image of a cat, how much does the cat weigh?"
 
-### Image Classification Code Examples
+### ml5.js Code Examples
 
 -   [Image Classification - Single Image](https://editor.p5js.org/ml5/sketches/pjPr6XmPY)
 -   [Image Classification - Drag and Drop](https://editor.p5js.org/jackbdu/sketches/LKbmAl6o_)
