@@ -40,7 +40,7 @@
 -   [BodyPose - BlazePose Skeleton](https://editor.p5js.org/ml5/sketches/KWgsAbgkk)
 -   [BodyPose - Drawing with Nose](https://editor.p5js.org/jackbdu/sketches/bUsDnrEbv)
 -   [BodyPose - Trailing Effect](https://editor.p5js.org/jackbdu/sketches/eQTjLNK35)
--   [BodyPose - Cat or Dog](https://editor.p5js.org/jackbdu/sketches/bUsDnrEbv)
+-   [BodyPose - Cat or Dog](https://editor.p5js.org/jackbdu/sketches/26sLU0Ub-)
 -   [BodySegmentation - Mask Background with SelfieSegmentation](https://editor.p5js.org/ml5/sketches/KNsdeNhrp)
 -   [BodySegmentation - Mask Person with SelfieSegmentation](https://editor.p5js.org/ml5/sketches/h6TN8umP5)
 -   [BodySegmentation - Mask Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/ruoyal-RC)
