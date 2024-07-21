@@ -12,7 +12,11 @@
 ### Models
 
 -   [BodyPose](https://docs.ml5js.org/#/reference/bodypose)
+    -   [ml5js/ml5-next-gen/src/BodyPose](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodyPose)
+    -   [tensorflow/tfjs-models/pose-detection](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection)
 -   [BodySegmentation](https://docs.ml5js.org/#/reference/body-segmentation)
+    -   [ml5js/ml5-next-gen/src/BodySegmentation](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodySegmentation)
+    -   [tensorflow/tfjs-models/body-segmentation](https://github.com/tensorflow/tfjs-models/tree/master/body-segmentation)
 
 ### Related Projects
 
@@ -51,15 +55,12 @@
 
 -   Read [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo.
 -   Read [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0) by Dan Oved and Tyler Zhu, with editing by Irene Alvarado.
-
-### Data and Model Biographies
-
 -   Read [Feminist Data Set](https://carolinesinders.com/wp-content/uploads/2020/05/Feminist-Data-Set-Final-Draft-2020-0526.pdf), a tool kit to interrogate every step of the AI process by Caroline Sinders.
 -   Watch [The Future Is Here!](https://thephotographersgallery.org.uk/whats-on/digital-project/mimi-onuoha-future-here), a commission for The Photographers’ Gallery which examines the process of dataset creation by Mimi Ọnụọha.
 -   Watch [Ted Talk: The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) by Cathy O'Neil.
     -   Cathy O'Neil's [Risk Consulting & Algorithmic Auditing firm](https://orcaarisk.com/).
 
-### ml5.js video tutorials
+### ml5.js Video Tutorials
 
 _Note: these tutorials were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 

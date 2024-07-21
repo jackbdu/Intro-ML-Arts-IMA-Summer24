@@ -11,6 +11,12 @@
 
 ## Outline
 
+### Model
+
+-   [SoundClassifer](https://docs.ml5js.org/#/reference/sound-classifier)
+    -   [ml5js/ml5-next-gen/src/SoundClassifier](https://github.com/ml5js/ml5-next-gen/tree/main/src/SoundClassifier)
+    -   [tensorflow/tfjs-models/speech-commands](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
+
 ### Supervised Learning
 
 -   From Andrew Ng: "In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output."
@@ -59,7 +65,7 @@
 -   [Teachable Machine video tutorials](https://thecodingtrain.com/tracks/teachable-machine) by Daniel Shiffman.
 -   [Image + Teachable Machine](https://docs.ml5js.org/#/reference/image-classifier-tm) from ml5.js Documentation.
 
-### ml5.js video tutorials
+### ml5.js Video Tutorials
 
 _Note: these tutorials were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 

@@ -14,6 +14,12 @@
 
 ## Outline
 
+### Model
+
+-   [ImageClassifier](https://docs.ml5js.org/#/reference/image-classifier)
+    -   [ml5js/ml5-next-gen/src/ImageClassifier](https://github.com/ml5js/ml5-next-gen/tree/main/src/ImageClassifier)
+    -   [tensorflow/tfjs-models/mobilenet](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet)
+
 ### Defining Machine Learning Yet Again
 
 -   "Machine learning is programming with examples, not instructions" -- from [Kyle McDonald - Weird Intelligence](https://vimeo.com/304110435).
