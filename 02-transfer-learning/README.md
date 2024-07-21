@@ -1,4 +1,4 @@
-# Transfer Learning with Teachable Machine
+# Transfer Learning
 
 [ [Slides](https://docs.google.com/presentation/d/1a31tHMzrTqa1B6bNOF7mec9Fv5zTfKKpxsVSDtsBOC0/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 

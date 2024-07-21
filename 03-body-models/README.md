@@ -1,4 +1,4 @@
-# Applications of Body Models
+# Body Models
 
 [ [Slides](https://docs.google.com/presentation/d/1l_D9syEOAxvoi1ud_urHPrQJ8-xC80GRU2YfkQAC7qw/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 
