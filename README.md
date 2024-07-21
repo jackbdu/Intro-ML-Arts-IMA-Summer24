@@ -19,69 +19,39 @@ _This is a living document and is subject to change._
 
 ### Week 1
 
-[Tuesday 7/9](00-intro)
+-   [Tuesday 7/9 - Introduction](00-introduction)
 
--   Introduction to Machine Learning
--   p5.js Review Session
-
-[Thursday 7/11](01-image-classification)
-
--   Image Classification
--   ml5.js Coding Session
+-   [Thursday 7/11 - Image Classification](01-image-classification)
 
 ### Week 2
 
-[Tuesday 7/16](02-transfer-learning)
+-   [Tuesday 7/16 - Transfer Learning](02-transfer-learning)
 
--   Transfer Learning
--   ml5.js Coding Session
-
-[Thursday 7/18](03-body-models)
-
--   Pre-trained Body Models
--   ml5.js Coding Session
+-   [Thursday 7/18 - Body Models](03-body-models)
 
 ### Week 3
 
-Tuesday 7/23
+-   Tuesday 7/23 - Face and Hand Models
 
--   Pre-trained Face and Hand Models
--   ml5.js Coding Session
-
-Thursday 7/25
-
--   Training a Neural Network
--   ml5.js Coding Session
+-   Thursday 7/25 - Training a Neural Network
 
 ### Week 4
 
-Tuesday 7/30
+-   Tuesday 7/30 - Convolutional Neural Network
 
--   Convolutional Neural Network
-
-Thursday 8/1
-
--   Recurrent Neural Network
+-   Thursday 8/1 - Recurrent Neural Network
 
 ### Week 5
 
-[Tuesday 8/6](08-final-project)
+-   [Tuesday 8/6 - Final Project Proposals](08-final-project)
 
--   Final Project Proposals
-
-[Thursday 8/8](08-final-project)
-
--   Final Project Prototypes
+-   [Thursday 8/8 - Final Project Prototypes](08-final-project)
 
 ### Week 6
 
-[Tuesday 8/13](08-final-project)
+-   [Tuesday 8/13 - Final Project Testing](08-final-project)
 
--   Final Project Testing
-
-[Thursday 8/15](08-final-project)
-
--   Final Project Presentations
+-   [Thursday 8/15 - Final Project Presentations](08-final-project)
 
 ## Community Commitments
 
