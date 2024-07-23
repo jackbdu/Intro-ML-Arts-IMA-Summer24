@@ -31,7 +31,7 @@ _This is a living document and is subject to change._
 
 ### Week 3
 
--   Tuesday 7/23 - Face and Hand Models
+-   [Tuesday 7/23 - Face and Hand Models](04-face-and-hand-models)
 
 -   Thursday 7/25 - Training a Neural Network
 
