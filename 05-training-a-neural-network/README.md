@@ -34,18 +34,6 @@
 6. Hyperparameter Tuning
 7. Prediction
 
-### Musical Projects
-
-### Related projects that map gesture to sound
-
--   [MARtLET](https://vimeo.com/19980514) by Michelle Nagai
--   [From the Waters](https://www.youtube.com/watch?v=k6dwnr5RDow) by Anne Hege
--   [This Is Not A Theremin](https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/) by Guillermo Montecinos and Sofía Suazo
--   [Eye Conductor](<[https://andreasrefsgaard.dk/project/eye-conductor/](https://www.andreasrefsgaard.dk/projects/eye-conductor/)>) by Andreas Refsgaard
--   [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard
--   [Creatability](https://experiments.withgoogle.com/collection/creatability)
--   [Body Synth](https://experiments.withgoogle.com/body-synth)
-
 ### ml5.js Code Examples
 
 -   [NeuralNetwork - Color Classifier](https://editor.p5js.org/ml5/sketches/eGHBdmCLe)
@@ -77,8 +65,7 @@ _Note: these tutorials were taught using an older version of ml5.js, refer to th
 
 1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397) by Dr. Rebecca Fiebrink at Eyeo 2018. Write a response to the following question posed by Dr. Fiebrink:
     - How can machine learning support people's existing creative practices? Expand people's creative capabilities?
-2. Dream up and design the inputs and outputs of a real-time machine learning system for interaction and audio/visual performance. This could be an idea well beyond the scope of what you can do in a weekly exercise.
-3. Create your own p5.js sketch that trains a model with real-time interactive data. This can be a prototype of the aforementioned idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
+2. Create your own p5.js sketch that trains a model with real-time interactive data. This can be a prototype of the aforementioned idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
     - Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons.
     - What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
     - What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R, G, B values?
@@ -87,4 +74,4 @@ _Note: these tutorials were taught using an older version of ml5.js, refer to th
         - Can you add more classification categories?
         - Can you create an interface for training and showing the results of model's prediction?
         - Can you turn this into a regression model?
-4. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Assignment-5). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+3. Document your response to the readings as well as your p5.js sketch in a blog post and add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Assignment-5). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
