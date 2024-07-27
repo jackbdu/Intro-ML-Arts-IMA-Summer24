@@ -35,6 +35,8 @@
 -   [AR Body Filters](https://sheeborshee.com/AR-body-filters-2019) by Daria Sazanovich.
 -   [ballet rotoscope](https://www.youtube.com/watch?v=yzJk6ww3LD0) by Euphrates.
 -   [Dance with Bubbles](https://sihanzhang.wixsite.com/myspace/machine-learning-for-the-web) by Sihan Zhang.
+-   [This Is Not A Theremin](https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/) by Guillermo Montecinos and Sofía Suazo.
+-   [Body Synth](https://experiments.withgoogle.com/body-synth) by Use All Five & Google Creative Lab.
 
 ### ml5.js Code Examples
 
@@ -55,6 +57,7 @@
 
 -   Read [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo.
 -   Read [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0) by Dan Oved and Tyler Zhu, with editing by Irene Alvarado.
+-   Read [Pose Animator - An open source tool to bring SVG characters to life in the browser via motion capture](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) by Shan Huang.
 -   Read [Feminist Data Set](https://carolinesinders.com/wp-content/uploads/2020/05/Feminist-Data-Set-Final-Draft-2020-0526.pdf), a tool kit to interrogate every step of the AI process by Caroline Sinders.
 -   Watch [The Future Is Here!](https://thephotographersgallery.org.uk/whats-on/digital-project/mimi-onuoha-future-here), a commission for The Photographers’ Gallery which examines the process of dataset creation by Mimi Ọnụọha.
 -   Watch [Ted Talk: The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) by Cathy O'Neil.

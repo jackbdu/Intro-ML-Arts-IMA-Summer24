@@ -27,6 +27,9 @@
 -   [Fingerspelling](https://www.hellomonday.com/work/fingerspelling) by Hello Monday.
 -   [Finger Talk](https://www.media.mit.edu/projects/finger-talk/overview/) by Future Sketches.
 -   [Look At You](https://itp.alan.ooo/classes/ml4w/look-at-you) by Alan Ren.
+-   [Finger Numerals](https://www.instagram.com/p/CsBMOvUL4CP/) by Nahuel Gerth.
+-   [Projection Mapping](https://www.instagram.com/p/CrLLNzGLcoA/) by Nahuel Gerth.
+-   [Bubbles](https://www.instagram.com/p/C6S5BHPCGu3/) by Nahuel Gerth.
 -   [Mouth-Controlled Synthesizer with FaceMesh](https://www.instagram.com/p/C41i1VQsfs0/) by Jack B. Du. [ [Live Demo](https://editor.p5js.org/jackbdu/full/lNFGj9ENL) ]
 -   [Melody Painter with HandPose](https://www.instagram.com/p/C4WozrtsZ4r/) by Jack B. Du. [ [Live Demo](https://editor.p5js.org/jackbdu/full/jIvzImJMb) ]
 
