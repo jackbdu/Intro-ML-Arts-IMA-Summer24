@@ -65,12 +65,11 @@ _Note: these tutorials were taught using an older version of ml5.js, refer to th
 
 1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397) by Dr. Rebecca Fiebrink at Eyeo 2018. Write a response to the following question posed by Dr. Fiebrink:
     - How can machine learning support people's existing creative practices? Expand people's creative capabilities?
-2. Create your own p5.js sketch that trains a model with real-time interactive data. This can be a prototype of the aforementioned idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
-    - Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons.
+2. Create your own p5.js sketch that trains a model with real-time interactive data. This can be a prototype of a project idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
+    - Try to invent more elegant and intuitive interaction for collecting real-time data beyond pressing keys.
     - What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
-    - What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R, G, B values?
+    - What other real-time outputs might you consider beyond text? Could the output be sound/color modulation? Could there be multiple outputs like R, G, B values? Could the output be a physical computing device?
     - Improve the the sketch we built in class:
-        - Can you add more keypoints to the data collection? All the keypoints?
         - Can you add more classification categories?
         - Can you create an interface for training and showing the results of model's prediction?
         - Can you turn this into a regression model?
