@@ -36,7 +36,7 @@
 -   [Convolution Neural Network - Max Pooling Demo](https://editor.p5js.org/codingtrain/sketches/GMRfsK7Wn)
 -   [Training a Doodle Classifier without Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/45pxCfFKh)
 -   [Training a Doodle Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/Id2cg4UQL)
--   [Training a Handwritten Digit Classifier with Convolutional Layers](r.p5js.org/jackbdu/sketches/ab7lfmRyH)
+-   [Training a Handwritten Digit Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/ab7lfmRyH)
 -   [Training a Webcam Image Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/7Y6VDvUO6)
 -   [Doodle Classification with DoodleNet](https://editor.p5js.org/jackbdu/sketches/ts3fuRZGW) (model trained by [@yining1023](https://github.com/yining1023))
 
