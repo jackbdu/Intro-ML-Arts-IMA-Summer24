@@ -37,7 +37,7 @@ _This is a living document and is subject to change._
 
 ### Week 4
 
--   Tuesday 7/30 - Convolutional Neural Network
+-   [Tuesday 7/30 - Convolutional Neural Network](06-convolutional-neural-network)
 
 -   Thursday 8/1 - Recurrent Neural Network
 
@@ -61,7 +61,7 @@ The ITP/IMA Community Commitments is an evolving work-in-progress document that 
 
 ## Course Description
 
-An introductory course designed to provide students with hands-on experience developing creative coding projects with machine learning. The history, theory, and application of machine learning algorithms and related datasets are explored in a laboratory context of experimentation and discussion. Examples and exercises will be demonstrated in JavaScript using the p5.js, ml5.js, and TensorFlow.js libraries. In addition, students will learn to work with open-source generative models including large language models and image generation models. Principles of data collection and ethics are introduced. Weekly assignments, team and independent projects, and project reports are required.
+An introductory course designed to provide students with hands-on experience developing creative coding projects with machine learning. The history, theory, and application of machine learning algorithms and related datasets are explored in a laboratory context of experimentation and discussion. Examples and exercises will be demonstrated in JavaScript using the p5.js, ml5.js, and TensorFlow.js libraries. In addition, students will learn to work with open-source generative models including text generation models and image generation models. Principles of data collection and ethics are introduced. Weekly assignments, team and independent projects, and project reports are required.
 
 ## Course Objectives
 
