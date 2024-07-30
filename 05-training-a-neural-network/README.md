@@ -1,6 +1,6 @@
 # Training a Neural Network
 
-[ [Slides](https://docs.google.com/presentation/d/1OKT_80niROeM37g5XLW-M8L_JHCGCxtJ2HIExuOFQCk/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
+[ [Slides](https://docs.google.com/presentation/d/1OKT_80niROeM37g5XLW-M8L_JHCGCxtJ2HIExuOFQCk/) \| [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 
 ## Objectives
 
@@ -22,7 +22,7 @@
 
 ### Perceptron
 
--   Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. [ [Read original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf) | [More on its history](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Neural-Networks-History) ]
+-   Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. [ [Read original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf) \| [More on its history](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Neural-Networks-History) ]
 
 ### 7 Steps of Machine Learning
 
@@ -59,7 +59,7 @@ _Note: these tutorials were taught using an older version of ml5.js, refer to th
 -   [ml5: Neural Network Regression - video tutorial](https://youtu.be/fFzvwdkzr_c?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://youtu.be/FYgYyq-xqAw?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork() - video tutorial](https://youtu.be/lob74HqHYJ0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
--   [Hand Pose Classifier with ml5.neuralNetwork() - demo video](https://www.loom.com/share/420fa5941dea411491af817011622c86) by Yining Shi. [ [Data Collection Code](https://editor.p5js.org/yining/sketches/dCoPm-Opb) | [Model Training Code](https://editor.p5js.org/yining/sketches/IrBFfXbSF) | [Classification Code](https://editor.p5js.org/yining/sketches/6cFF9-L-Z) ]
+-   [Hand Pose Classifier with ml5.neuralNetwork() - demo video](https://www.loom.com/share/420fa5941dea411491af817011622c86) by Yining Shi. [ [Data Collection Code](https://editor.p5js.org/yining/sketches/dCoPm-Opb) \| [Model Training Code](https://editor.p5js.org/yining/sketches/IrBFfXbSF) \| [Classification Code](https://editor.p5js.org/yining/sketches/6cFF9-L-Z) ]
 
 ## Assignment 5
 

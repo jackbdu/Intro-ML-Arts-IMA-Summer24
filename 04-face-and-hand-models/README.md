@@ -1,6 +1,6 @@
 # Face and Hand Models
 
-[ [Slides](https://docs.google.com/presentation/d/1otYnpKOQG2iwVMPExmTgppvQ6aeKN2UW7HxxcGktJnc/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
+[ [Slides](https://docs.google.com/presentation/d/1otYnpKOQG2iwVMPExmTgppvQ6aeKN2UW7HxxcGktJnc/) \| [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 
 ## Objectives
 

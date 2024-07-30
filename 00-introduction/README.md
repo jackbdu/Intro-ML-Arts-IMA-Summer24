@@ -1,6 +1,6 @@
 # Introduction
 
-[ [Slides](https://docs.google.com/presentation/d/1kAPACuob_EjZHcVd63Sz3-3PrQsUUZon10Dz7_V22wM/) | [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
+[ [Slides](https://docs.google.com/presentation/d/1kAPACuob_EjZHcVd63Sz3-3PrQsUUZon10Dz7_V22wM/) \| [Sketches](https://editor.p5js.org/jackbdu/collections/kjuPKBzeH) ]
 
 ## Objectives
 
