@@ -20,37 +20,31 @@ _This is a living document and is subject to change._
 ### Week 1
 
 -   [Tuesday 7/9 - Introduction](00-introduction)
-
 -   [Thursday 7/11 - Image Classification](01-image-classification)
 
 ### Week 2
 
 -   [Tuesday 7/16 - Transfer Learning](02-transfer-learning)
-
 -   [Thursday 7/18 - Body Models](03-body-models)
 
 ### Week 3
 
 -   [Tuesday 7/23 - Face and Hand Models](04-face-and-hand-models)
-
 -   [Thursday 7/25 - Training a Neural Network](05-training-a-neural-network)
 
 ### Week 4
 
 -   [Tuesday 7/30 - Convolutional Neural Network](06-convolutional-neural-network)
-
--   Thursday 8/1 - Recurrent Neural Network
+-   Thursday 8/1 - Text and Image Generation
 
 ### Week 5
 
 -   [Tuesday 8/6 - Final Project Proposals](08-final-project)
-
 -   [Thursday 8/8 - Final Project Prototypes](08-final-project)
 
 ### Week 6
 
 -   [Tuesday 8/13 - Final Project Testing](08-final-project)
-
 -   [Thursday 8/15 - Final Project Presentations](08-final-project)
 
 ## Community Commitments
@@ -119,7 +113,7 @@ Responses to reading and other written assignments are also due in class one wee
 
 ## Statement of Academic Integrity
 
-Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else. More information can be found on Tisch’s page regarding Academic Integrity (https://tisch.nyu.edu/faculty/academic-integ).
+Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else. More information can be found on [NYU Tisch’s page regarding Academic Integrity](https://tisch.nyu.edu/faculty/academic-integ).
 
 ## Use of Free and Open Source Code Examples
 
