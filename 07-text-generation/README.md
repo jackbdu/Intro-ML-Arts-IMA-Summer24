@@ -68,6 +68,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 -   [Markov Chains - Part 1 - video tutorial](https://www.youtube.com/watch?v=eGFJ8vugIWA) by Daniel Shiffman.
 -   [Markov Chains - Part 2 - video tutorial](https://www.youtube.com/watch?v=9r8CmofnbAQ) by Daniel Shiffman.
 -   [Context-Free Grammar - video tutorial](https://www.youtube.com/watch?v=8Z9FRiW2Jlc) by Daniel Shiffman.
+-   [What is word2vec? - Programming with Text - video tutorial](https://www.youtube.com/watch?v=LSS_bos_TPI) by Daniel Shiffman.
 -   [Sketch-RNN Snowflakes with ml5.js - video tutorial](https://www.youtube.com/watch?v=pdaNttb7Mr8) by Daniel Shiffman.
 -   [Interactive Drawing with Machine Learning Model (SketchRNN) - video tutorial](https://www.youtube.com/watch?v=ZCXkvwLxBrA) by Daniel Shiffman.
 -   [RDP Line Simplification Algorithm - video tutorial](https://www.youtube.com/watch?v=nSYw9GrakjY) by Daniel Shiffman.
