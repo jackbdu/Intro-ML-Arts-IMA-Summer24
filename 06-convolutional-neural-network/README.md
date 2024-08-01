@@ -56,7 +56,7 @@
 
 ### Video Tutorials
 
-_Note: these tutorials were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
+_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 
 -   [Replaying Drawings with Node Server - video tutorial](https://www.youtube.com/watch?v=yLuk0twx8Hc) by Daniel Shiffman.
 -   [Replaying Drawings with Google Web API - video tutorial](https://www.youtube.com/watch?v=EcRK6oFddPQ) by Daniel Shiffman.

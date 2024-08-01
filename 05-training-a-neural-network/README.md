@@ -20,6 +20,10 @@
 
 ## Outline
 
+### Model
+
+-   [NeuralNetwork](https://docs.ml5js.org/#/reference/neural-network)
+
 ### Perceptron
 
 -   Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. [ [Read original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf) \| [More on its history](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Neural-Networks-History) ]
@@ -51,7 +55,7 @@
 
 ### ml5.js Video Tutorials
 
-_Note: these tutorials were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
+_Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 
 -   [ml5.js: Train Your Own Neural Network - video tutorial](https://youtu.be/8HEgeAbYphA?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Save Neural Network Training Data - video tutorial](https://youtu.be/q6cwxORPDo8?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
