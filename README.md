@@ -35,7 +35,7 @@ _This is a living document and is subject to change._
 ### Week 4
 
 -   [Tuesday 7/30 - Convolutional Neural Network](06-convolutional-neural-network)
--   Thursday 8/1 - Text and Image Generation
+-   [Thursday 8/1 - Text Generation](07-text-generation)
 
 ### Week 5
 
