@@ -6,20 +6,64 @@
 
 -   Define Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
 -   Overview of applications of machine learning, especially for art and design.
--   History of machine learning.
--   Overview of tools for machine learning.
--   Classification and regression.
+-   Learn about the history of machine learning.
+-   Learn about tools for machine learning.
+-   Understand the difference between classification and regression.
 
 ## Outline
 
--   Introductions
--   Syllabus
--   Lecture: Introduction to ML
--   p5.js review
-    -   shapes
-    -   variables
-    -   conditionals
-    -   loops
+### Drawing
+
+-   [Scrying Pen](https://experiments.withgoogle.com/scrying-pen) by Andy Matuschak.
+-   [Handwriting with a Neural Net](https://experiments.withgoogle.com/handwriting-with-a-neural-net) by Shan Carter, David Ha, Ian Johnson, Chris Olah.
+-   [Quick, Draw!](https://quickdraw.withgoogle.com) by Jonas Jongejan, Henry Rowley, Takashi Kawashima, Jongmin Kim, Nick Fox-Gieg, with friends at Google Creative Lab and Data Arts Team.
+
+### Images
+
+-   [Pix2Pix](https://phillipi.github.io/pix2pix/) by Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A.
+-   [Fast Style Transfer in TensorFlow](https://github.com/lengstrom/fast-style-transfer) by Logan Engstrom.
+-   [This Repository Does Not Exist](https://github.com/paulbricman/thisrepositorydoesnotexist) on GitHub.
+-   [Stable Diffusion](https://stability.ai/news/stable-diffusion-public-release) by Stability AI.
+    -   [Stable Diffusion Demo](https://stability.ai/news/stable-diffusion-announcement) on HuggingFace.
+    -   [Diffuse the Rest Demo](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) on HuggingFace.
+-   [DALL·E](https://openai.com/index/dall-e/) by OpenAI.
+-   [DALL·E mini Demo](https://huggingface.co/spaces/dalle-mini/dalle-mini) on HuggingFace.
+
+### Videos
+
+-   [Motion Representations for Articulated Animation](https://github.com/snap-research/articulated-animation) by Siarohin, Aliaksandr and Woodford, Oliver and Ren, Jian and Chai, Menglei and Tulyakov, Sergey.
+-   [Gen-3 Alpha](https://runwayml.com/research/introducing-gen-3-alpha) by Runway.
+-   [Sora](https://openai.com/index/video-generation-models-as-world-simulators/) by OpenAI.
+
+### Arts & Culture
+
+-   [X Degrees of Separation](https://experiments.withgoogle.com/x-degrees-of-separation) by Mario Klingemann & Simon Doury.
+-   [Art Palette](https://experiments.withgoogle.com/art-palette) by Simon Doury & Etienne Ferrier.
+-   [Runway Palette](https://experiments.withgoogle.com/business-of-fashion) by Artist in Residence at Google Arts & Culture Lab: Cyril Diagne, in collaboration with The Business of Fashion.
+
+### Physical Computing
+
+-   [Objectifier Spatial Programming](https://experiments.withgoogle.com/objectifier-spatial-programming) by Bjørn Karmann.
+-   [Intel Curie Pattern Matching Dress](https://www.hackster.io/kitty-yeung/arduino-101-intel-curie-pattern-matching-dress-9cc783) by Kitty Yeung.
+-   [Rock-Paper-Scissors Machine](https://experiments.withgoogle.com/rock-paper-scissors) by Kaz Sato.
+
+### Texts
+
+-   [GPT-4](https://openai.com/index/gpt-4/) by OpenAI.
+    -   [GPT-2 Demo](https://transformer.huggingface.co/doc/distil-gpt2) on HuggingFace.
+-   [Copilot](https://github.com/features/copilot) by GitHub.
+
+### Playful
+
+-   [Emoji Scavenger Hunt](https://experiments.withgoogle.com/emoji-scavenger) by Google Brand Studio.
+-   [Giorgio Cam](https://experiments.withgoogle.com/giorgio-cam) by Eric Rosenbaum & Yotam Mann.
+-   [Thing Translator](https://experiments.withgoogle.com/thing-translator) by Dan Motzenbecker.
+-   [ml5.js Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard.
+
+### Accessbility
+
+-   [Creatability](https://experiments.withgoogle.com/collection/creatability) from Experiments with Google.
+-   [Be My AI](https://www.bemyeyes.com/blog/announcing-be-my-ai) from Be My Eyes.
 
 ## Supplemental Materials
 
@@ -28,12 +72,7 @@
 -   Watch [Seeing Machines Think](https://youtu.be/ugkfmHBW74Q) by Martin Wattenberg and Fernanda Viégas.
 -   Watch [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
 
-### Creative Examples
-
--   [ml5.js Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard.
--   [Creatability](https://experiments.withgoogle.com/collection/creatability) from Experiments with Google.
-
-### p5.js Review
+### p5.js Video Tutorials
 
 -   [Learning While Making p5.js with Lauren McCarthy](https://youtu.be/1k3X4DLDHdc).
 -   [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI).
