@@ -12,13 +12,15 @@
 
 ## Lecture Notes
 
-### Drawing
+### Applications of Machine Learning
+
+#### Drawing
 
 -   [Scrying Pen](https://experiments.withgoogle.com/scrying-pen) by Andy Matuschak.
 -   [Handwriting with a Neural Net](https://experiments.withgoogle.com/handwriting-with-a-neural-net) by Shan Carter, David Ha, Ian Johnson, Chris Olah.
 -   [Quick, Draw!](https://quickdraw.withgoogle.com) by Jonas Jongejan, Henry Rowley, Takashi Kawashima, Jongmin Kim, Nick Fox-Gieg, with friends at Google Creative Lab and Data Arts Team.
 
-### Images
+#### Images
 
 -   [Pix2Pix](https://phillipi.github.io/pix2pix/) by Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A.
 -   [Fast Style Transfer in TensorFlow](https://github.com/lengstrom/fast-style-transfer) by Logan Engstrom.
@@ -29,41 +31,51 @@
 -   [DALL·E](https://openai.com/index/dall-e/) by OpenAI.
 -   [DALL·E mini Demo](https://huggingface.co/spaces/dalle-mini/dalle-mini) on HuggingFace.
 
-### Videos
+#### Videos
 
 -   [Motion Representations for Articulated Animation](https://github.com/snap-research/articulated-animation) by Siarohin, Aliaksandr and Woodford, Oliver and Ren, Jian and Chai, Menglei and Tulyakov, Sergey.
 -   [Gen-3 Alpha](https://runwayml.com/research/introducing-gen-3-alpha) by Runway.
 -   [Sora](https://openai.com/index/video-generation-models-as-world-simulators/) by OpenAI.
 
-### Arts & Culture
+#### Arts & Culture
 
 -   [X Degrees of Separation](https://experiments.withgoogle.com/x-degrees-of-separation) by Mario Klingemann & Simon Doury.
 -   [Art Palette](https://experiments.withgoogle.com/art-palette) by Simon Doury & Etienne Ferrier.
 -   [Runway Palette](https://experiments.withgoogle.com/business-of-fashion) by Artist in Residence at Google Arts & Culture Lab: Cyril Diagne, in collaboration with The Business of Fashion.
 
-### Physical Computing
+#### Physical Computing
 
 -   [Objectifier Spatial Programming](https://experiments.withgoogle.com/objectifier-spatial-programming) by Bjørn Karmann.
 -   [Intel Curie Pattern Matching Dress](https://www.hackster.io/kitty-yeung/arduino-101-intel-curie-pattern-matching-dress-9cc783) by Kitty Yeung.
 -   [Rock-Paper-Scissors Machine](https://experiments.withgoogle.com/rock-paper-scissors) by Kaz Sato.
 
-### Texts
+#### Texts
 
 -   [GPT-4](https://openai.com/index/gpt-4/) by OpenAI.
     -   [GPT-2 Demo](https://transformer.huggingface.co/doc/distil-gpt2) on HuggingFace.
 -   [Copilot](https://github.com/features/copilot) by GitHub.
 
-### Playful
+#### Playful
 
 -   [Emoji Scavenger Hunt](https://experiments.withgoogle.com/emoji-scavenger) by Google Brand Studio.
 -   [Giorgio Cam](https://experiments.withgoogle.com/giorgio-cam) by Eric Rosenbaum & Yotam Mann.
 -   [Thing Translator](https://experiments.withgoogle.com/thing-translator) by Dan Motzenbecker.
 -   [ml5.js Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard.
 
-### Accessbility
+#### Accessbility
 
 -   [Creatability](https://experiments.withgoogle.com/collection/creatability) from Experiments with Google.
 -   [Be My AI](https://www.bemyeyes.com/blog/announcing-be-my-ai) from Be My Eyes.
+
+### Tools
+
+-   [p5.js Website](https://p5js.org)
+    -   [p5.js Reference](https://p5js.org/reference/)
+    -   [p5.js Web Editor](https://editor.p5js.org)
+-   [ml5.js Website](https://ml5js.org)
+    -   [ml5.js Reference](https://docs.ml5js.org/#/reference/overview)
+-   [TensorFlow Website](https://www.tensorflow.org)
+    -   [TensorFlow.js Website](https://www.tensorflow.org/js)
 
 ## Supplemental Materials
 
