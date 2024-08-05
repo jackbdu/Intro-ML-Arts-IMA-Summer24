@@ -5,12 +5,12 @@
 ## Objectives
 
 -   Define Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
--   Overview of applications of machine learning, especially for art and design.
 -   Learn about the history of machine learning.
--   Learn about tools for machine learning.
+-   Overview of applications of machine learning, especially for art and design.
+-   Learn about the tools for machine learning.
 -   Understand the difference between classification and regression.
 
-## Outline
+## Lecture Notes
 
 ### Drawing
 
@@ -72,10 +72,10 @@
 -   Watch [Seeing Machines Think](https://youtu.be/ugkfmHBW74Q) by Martin Wattenberg and Fernanda Viégas.
 -   Watch [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
 
-### p5.js Video Tutorials
+### Video Tutorials
 
--   [Learning While Making p5.js with Lauren McCarthy](https://youtu.be/1k3X4DLDHdc).
--   [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI).
+-   [Learning While Making p5.js](https://youtu.be/1k3X4DLDHdc) with Lauren McCarthy.
+-   [p5.js Web Editor Overview](https://youtu.be/x1rJJRVTpAI) with Cassie Tarakajian.
 -   [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) by Daniel Shiffman.
 -   [Creative Coding for Absolute Beginners](https://www.youtube.com/playlist?list=PLUbmjnHkwarjjudjj2dclvClnL5ngpDze) by Jack B. Du.
 
