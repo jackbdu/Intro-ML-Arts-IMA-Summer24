@@ -26,24 +26,9 @@
 <script src="https://unpkg.com/ml5@1/dist/ml5.min.js"></script>
 ```
 
--   [ImageClassifier Reference](https://docs.ml5js.org/#/reference/image-classifier)
-    -   [ml5js/ml5-next-gen/src/ImageClassifier](https://github.com/ml5js/ml5-next-gen/tree/main/src/ImageClassifier)
-    -   [tensorflow/tfjs-models/mobilenet](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet)
-
-### Machine Learning Definitions
-
--   "Machine learning is programming with examples, not instructions" -- from Kyle McDonald's [Weird Intelligence](https://vimeo.com/304110435).
--   "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." -- Tom Mitchell's [Machine Learning (1998)](http://amzn.to/2nLdRgQ).
-    -   Example: classifying images of dogs and cats.
-        -   E = Watching you classify images as dogs or cats.
-        -   T = Classifying images as dogs or cats.
-        -   P = The % of images correctly classified.
-
-### Classification and Regression
-
--   Classification and regression both involve making a "[prediction](https://docs.ml5js.org/#/learn/ml5-glossary?id=prediction)" based on input data.
--   [Classification](https://docs.ml5js.org/#/learn/ml5-glossary?id=classification) refers to predicting an output with a discrete set of possibilities like a set of categories or labels. For example: "Given an input image, is it a dog or cat?"
--   [Regression](https://docs.ml5js.org/#/learn/ml5-glossary?id=regression-analysis) refers to predicting an "continuous" output (a fancy way of saying number). For example: "Given the number of bedrooms, what is the price of a house?" or "Given an input image of a cat, how much does the cat weigh?"
+-   [ml5.imageClassifier Reference](https://docs.ml5js.org/#/reference/image-classifier)
+    -   [ml5.imageClassifier Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/ImageClassifier)
+    -   [TensorFlow.js MobileNet Source Code](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet)
 
 ### Code Examples
 
