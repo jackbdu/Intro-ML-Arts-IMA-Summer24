@@ -9,18 +9,16 @@
 -   Understand the process of “transfer learning”.
 -   Learn to save a trained model for re-use later.
 
-## Outline
+## Lecture Notes
 
-### Model
+### Tools
 
--   [SoundClassifer](https://docs.ml5js.org/#/reference/sound-classifier)
-    -   [ml5js/ml5-next-gen/src/SoundClassifier](https://github.com/ml5js/ml5-next-gen/tree/main/src/SoundClassifier)
-    -   [tensorflow/tfjs-models/speech-commands](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
-
-### Supervised Learning
-
--   From Andrew Ng: "In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output."
--   Adapted from [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/): Supervised Learning is a strategy that involves a "teacher" that trains the learning system. For example, consider facial recognition. The "teacher" shows the network a bunch of faces (the teacher already knows the names associated with each face). The learning system makes its guesses and the teacher provides the answers. The learning system can then compare its answers to the known “correct” ones and make adjustments according to its errors.
+-   [Teachable Machine Website](https://teachablemachine.withgoogle.com)
+    -   [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google.
+    -   [Image + Teachable Machine Reference](https://docs.ml5js.org/#/reference/image-classifier-tm) from ml5.js Documentation.
+-   [ml5.soundClassifer Reference](https://docs.ml5js.org/#/reference/sound-classifier)
+    -   [ml5.soundClassifier Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/SoundClassifier)
+    -   [TensorFlow.js Speech Command Recognizer Source Code](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
 
 ### Related Projects
 
@@ -36,7 +34,7 @@
 -   [Teachable Arcade](https://ryancan.build/projects/teachable-arcade) by Ryan Flomerfelt Mather.
 -   [Eyeo Festival 2019 - Coding Train](https://vimeo.com/354276216) with Daniel Shiffman. [ [GitHub Repo](https://github.com/CodingTrain/Eyeo-Festival-2019) ]
 
-### ml5.js Code Examples
+### Code Examples
 
 -   [Image Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/VvGXajA36)
 -   [Sound Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/mXeiNXSTU)
@@ -57,18 +55,12 @@
 -   Watch [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown.
 -   Read [How to Build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) by Nikhil Thorat.
 
-### Teachable Machine
-
--   [Teachable Machine 2.0](https://teachablemachine.withgoogle.com)
--   [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google.
--   [Teachable Machine video tutorials](https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t) from Experiments with Google.
--   [Teachable Machine video tutorials](https://thecodingtrain.com/tracks/teachable-machine) by Daniel Shiffman.
--   [Image + Teachable Machine](https://docs.ml5js.org/#/reference/image-classifier-tm) from ml5.js Documentation.
-
-### ml5.js Video Tutorials
+### Video Tutorials
 
 _Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 
+-   [Teachable Machine video tutorials](https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t) from Experiments with Google.
+-   [Teachable Machine video tutorials](https://thecodingtrain.com/tracks/teachable-machine) by Daniel Shiffman.
 -   [ml5.js: Transfer Learning with Feature Extractor - video tutorial](https://youtu.be/kRpZ5OqUY6Y?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Feature Extractor Classification - video tutorial](https://youtu.be/eeO-rWYFuG0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Feature Extractor Regression - video tutorial](https://youtu.be/aKgq0m1YjvQ?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
