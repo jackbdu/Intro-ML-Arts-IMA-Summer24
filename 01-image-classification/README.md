@@ -51,6 +51,8 @@
 -   [Image Classification - Drag and Drop](https://editor.p5js.org/jackbdu/sketches/LKbmAl6o_)
 -   [Image Classification - Webcam](https://editor.p5js.org/ml5/sketches/K0sjaEO19)
 -   [Image Classification - Webcam with Speech Output](https://editor.p5js.org/jackbdu/sketches/Zja0ej8tn)
+-   [Image Classification with TensorFlow.js MobileNet - Single Image](https://editor.p5js.org/jackbdu/sketches/5DEdb8_E-)
+-   [Image Classification with TensorFlow.js MobileNet - Webcam](https://editor.p5js.org/jackbdu/sketches/FP7PTjj_X)
 
 ## Supplemental Materials
 
