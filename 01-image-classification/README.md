@@ -20,7 +20,7 @@
     -   [ml5.js Getting Started](https://docs.ml5js.org/)
     -   [ml5.js glossary](https://docs.ml5js.org/#/learn/ml5-glossary)
     -   [ml5.js official examples](https://editor.p5js.org/ml5/sketches)
-    -   In order to use ml5.js, include the `<script>` tag below in the index.html file:
+    -   In order to use ml5.js, include the `<script>` tag below in your index.html file:
 
 ```javascript
 <script src="https://unpkg.com/ml5@1/dist/ml5.min.js"></script>
@@ -30,7 +30,7 @@
     -   [ml5js/ml5-next-gen/src/ImageClassifier](https://github.com/ml5js/ml5-next-gen/tree/main/src/ImageClassifier)
     -   [tensorflow/tfjs-models/mobilenet](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet)
 
-### Defining Machine Learning Yet Again
+### Machine Learning Definitions
 
 -   "Machine learning is programming with examples, not instructions" -- from Kyle McDonald's [Weird Intelligence](https://vimeo.com/304110435).
 -   "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." -- Tom Mitchell's [Machine Learning (1998)](http://amzn.to/2nLdRgQ).
@@ -69,5 +69,5 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 ## Assignment 1b
 
 1. Explore [ImageNet](http://image-net.org/index), [ImageNet sample images](https://github.com/EliSchwartz/imagenet-sample-images/blob/master/gallery.md), [Kaggle ImageNet Mini 1000](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000). What surprises you about this data set? What questions do you have? Thinking back to last week’s assignment, can you think of any ethical considerations around how this data was collected Are there privacy considerations with the data?
-2. Using the [ml5.js examples above](#ml5-code-editor-examples), try running image classification on a variety of images. Pick at least 10 objects in your room. How many of these does it recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
+2. Using the [code examples above](#code-examples), try running image classification on a variety of images. Pick at least 10 objects in your room. How many of these does it recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
 3. Document your thoughts on MobileNet and image classification in a blog post and add a link to the [Assignment 1b Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Assignment-1b).
