@@ -32,18 +32,31 @@
 -   [Image Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/VvGXajA36)
 -   [Sound Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/mXeiNXSTU)
 -   [Sound Classification - Speech Commands](https://editor.p5js.org/ml5/sketches/HUm7NYMW3)
+-   [Webcam Image Classification with Teachable Machine Demo](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/) hosted on GitHub. [ [Source Code](webcam-image-classification-with-teachable-machine) ]
 
 ### Local Development and Hosting
 
 #### Running p5.js Sketches Locally
 
--   [Running a local server](https://github.com/processing/p5.js/wiki/Local-server) on p5.js Wiki.
--   Download a Teachable Machine model and load it locally with ml5.js.
+_Note: You can learn about other methods on this [p5.js Wiki page](https://github.com/processing/p5.js/wiki/Local-server#vs-code-live-server)._
+
+1.  Download and install [Visual Studio Code](https://code.visualstudio.com).
+2.  Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension within Visual Studio Code.
+3.  Download your p5.js sketch from the Web Editor and unzip it.
+4.  Open the unzipped folder in Visual Studio Code.
+5.  Select `index.html` file and click _Go Live_.
 
 #### Hosting p5.js Sketches on GitHub
 
--   [GitHub Pages Documentation](https://pages.github.com).
--   [Webcam Image Classification with Teachable Machine Demo](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/) hosted on GitHub. [ [Source Code](webcam-image-classification-with-teachable-machine) ]
+1. Sign up for a [GitHub](https://github.com) account.
+2. Create a repository. [ [GitHub Docs: Create a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories#create-a-repository) ]
+3. Download your p5.js sketch from the Web Editor and unzip it.
+4. Add all the files in the unzipped folder to your repository and commit the changes. [ [GitHub Docs: Adding a file to a repository](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) ]
+5. On your repository page, go to Settings > Pages:
+    1. Under _Source_, choose _Deploy from a branch_.
+    2. Under _Branch_, choose _main_.
+    3. Click _Save_.
+6. Refresh the page after a while. You should see a link to your site near the top of th page once it becomes available.
 
 ### Related Projects
 
@@ -91,7 +104,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 -   [ml5.js: Feature Extractor Regression - video tutorial](https://youtu.be/aKgq0m1YjvQ?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Save/Load Model - video tutorial](https://youtu.be/eU7gIy3xV30?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 
-#### KNN Classification
+#### KNN Classification with ml5.js
 
 -   [ml5.js: KNN Classification Part 1](https://www.youtube.com/watch?v=KTNqXwkLuM4) by Daniel Shiffman.
 -   [ml5.js: KNN Classification Part 2](https://www.youtube.com/watch?v=Mwo5_bUVhlA) by Daniel Shiffman.
