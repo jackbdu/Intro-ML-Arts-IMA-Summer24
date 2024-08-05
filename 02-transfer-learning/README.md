@@ -38,7 +38,7 @@
 
 #### Running p5.js Sketches Locally
 
-_Note: You can learn about other methods on this [p5.js Wiki page](https://github.com/processing/p5.js/wiki/Local-server#vs-code-live-server)._
+_Note: You can learn about other methods on this [p5.js local server Wiki page](https://github.com/processing/p5.js/wiki/Local-server)._
 
 1.  Download and install [Visual Studio Code](https://code.visualstudio.com).
 2.  Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension within Visual Studio Code.
