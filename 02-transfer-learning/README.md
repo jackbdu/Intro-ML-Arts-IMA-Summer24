@@ -16,6 +16,8 @@
 -   [Teachable Machine Website](https://teachablemachine.withgoogle.com)
     -   [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google.
     -   [Image + Teachable Machine Reference](https://docs.ml5js.org/#/reference/image-classifier-tm) from ml5.js Documentation.
+    -   [Teachable Machine Community Repo](https://github.com/googlecreativelab/teachablemachine-community)
+    -   [TensorFlow.js KNN Classifier Source Code](https://github.com/tensorflow/tfjs-models/tree/master/knn-classifier)
 -   [ml5.soundClassifer Reference](https://docs.ml5js.org/#/reference/sound-classifier)
     -   [ml5.soundClassifier Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/SoundClassifier)
     -   [TensorFlow.js Speech Command Recognizer Source Code](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
@@ -40,15 +42,17 @@
 -   [Sound Classification with Teachable Machine and ml5.js](https://editor.p5js.org/ml5/sketches/mXeiNXSTU)
 -   [Sound Classification - Speech Commands](https://editor.p5js.org/ml5/sketches/HUm7NYMW3)
 
-### Running p5.js Sketches Locally
+### Taking p5.js Sketches Beyond the Web Editor
 
--   [Running a local server](https://github.com/processing/p5.js/wiki/Local-server).
+#### Running p5.js Sketches Locally
+
+-   [Running a local server](https://github.com/processing/p5.js/wiki/Local-server) on p5.js Wiki.
 -   Download a Teachable Machine model and load it locally with ml5.js.
 
-### Hosting p5.js Sketches on GitHub
+#### Hosting p5.js Sketches on GitHub
 
--   [Hosting a p5.js sketch with GitHub Pages - video tutorial](https://www.youtube.com/watch?v=ZneWjyn18e8) by Daniel Shiffman.
--   [Webcam Image Classification with Teachable Machine Demo hosted on GitHub](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/). [ [Source Code](webcam-image-classification-with-teachable-machine) ]
+-   [GitHub Pages Documentation](https://pages.github.com).
+-   [Webcam Image Classification with Teachable Machine Demo](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/) hosted on GitHub. [ [Source Code](webcam-image-classification-with-teachable-machine) ]
 
 ## Supplemental Materials
 
@@ -65,6 +69,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 -   [ml5.js: Feature Extractor Classification - video tutorial](https://youtu.be/eeO-rWYFuG0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Feature Extractor Regression - video tutorial](https://youtu.be/aKgq0m1YjvQ?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Save/Load Model - video tutorial](https://youtu.be/eU7gIy3xV30?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
+-   [Hosting a p5.js sketch with GitHub Pages - video tutorial](https://www.youtube.com/watch?v=ZneWjyn18e8) by Daniel Shiffman.
 
 ## Assignment 2
 
