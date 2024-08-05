@@ -12,6 +12,16 @@
 
 ## Lecture Notes
 
+### Tools
+
+-   [p5.js Website](https://p5js.org)
+    -   [p5.js Reference](https://p5js.org/reference/)
+    -   [p5.js Web Editor](https://editor.p5js.org)
+-   [ml5.js Website](https://ml5js.org)
+    -   [ml5.js Reference](https://docs.ml5js.org/#/reference/overview)
+-   [TensorFlow Website](https://www.tensorflow.org)
+    -   [TensorFlow.js Website](https://www.tensorflow.org/js)
+
 ### Applications of Machine Learning
 
 #### Drawing
@@ -66,16 +76,6 @@
 
 -   [Creatability](https://experiments.withgoogle.com/collection/creatability) from Experiments with Google.
 -   [Be My AI](https://www.bemyeyes.com/blog/announcing-be-my-ai) from Be My Eyes.
-
-### Tools
-
--   [p5.js Website](https://p5js.org)
-    -   [p5.js Reference](https://p5js.org/reference/)
-    -   [p5.js Web Editor](https://editor.p5js.org)
--   [ml5.js Website](https://ml5js.org)
-    -   [ml5.js Reference](https://docs.ml5js.org/#/reference/overview)
--   [TensorFlow Website](https://www.tensorflow.org)
-    -   [TensorFlow.js Website](https://www.tensorflow.org/js)
 
 ## Supplemental Materials
 
