@@ -142,4 +142,4 @@ https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title
 
 ## Acknowledgment
 
-This syllabus is adapted from the work of previous instructors (Daniel Shiffman, Yining Shi) who have generously shared their materials.
+This syllabus is adapted from the work of previous instructors (Daniel Shiffman, Yining Shi) who have generously shared [their materials](https://github.com/ml5js/Intro-ML-Arts-IMA-F23).
