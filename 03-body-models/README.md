@@ -4,41 +4,54 @@
 
 ## Objectives
 
--   Understanding how to use pre-trained models other than image classification.
--   Ability to work with BodyPose and BodySegmentation models in ml5.js.
+-   Understand what pose estimation is and how it works.
+-   Learn the differences between MoveNet and BlazePose and how to choose between them.
+-   Understand what body segmentation and how it works.
+-   Learn the differences between BodyPix and SelfieSegmentation and how to choose between them.
 
-## Outline
+## Lecture Notes
 
 ### Models
 
--   [BodyPose](https://docs.ml5js.org/#/reference/bodypose)
-    -   [ml5js/ml5-next-gen/src/BodyPose](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodyPose)
-    -   [tensorflow/tfjs-models/pose-detection](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection)
--   [BodySegmentation](https://docs.ml5js.org/#/reference/body-segmentation)
-    -   [ml5js/ml5-next-gen/src/BodySegmentation](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodySegmentation)
-    -   [tensorflow/tfjs-models/body-segmentation](https://github.com/tensorflow/tfjs-models/tree/master/body-segmentation)
+-   [ml5.bodyPose Reference](https://docs.ml5js.org/#/reference/bodypose)
+    -   [ml5.bodyPose Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodyPose)
+    -   [TensorFlow.js Pose Detection Source Code](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection)
+-   [ml5.bodySegmentation Reference](https://docs.ml5js.org/#/reference/body-segmentation)
+    -   [ml5.bodySegmentation Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodySegmentation)
+    -   [TensorFlow.js Body Segmentation Source Code](https://github.com/tensorflow/tfjs-models/tree/master/body-segmentation)
 
 ### Related Projects
 
+-   [PomPom Mirror](https://vimeo.com/128375543) by Daniel Rozin.
+-   [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk.
+-   [Moving morrir](https://experiments.withgoogle.com/move-mirror) from Google Creative Lab.
+-   [Touch Type](https://experiments.withgoogle.com/touch-type) by Richard Yee.
 -   [PoseNet Sketchbook](https://googlecreativelab.github.io/posenet-sketchbook/) by Maya Man.
--   [Body, Movement, Language: A.I. Sketches with Bill T. Jones](https://experiments.withgoogle.com/billtjonesai) from Google Creative Lab.
+-   [AR Body Filters](https://sheeborshee.com/AR-body-filters-2019) by Daria Sazanovich.
+-   [Dance with Bubbles](https://sihanzhang.wixsite.com/myspace/machine-learning-for-the-web) by Sihan Zhang.
+-   [nixel-Body](http://cmuems.com/2018/60212f/nixel/10/12/nixel-body/) from CMU Interactivity & Computation.
 -   [Web Olympic](https://vibertthio.com/web-olympic/) by Vibert Thio.
+
+#### Choreography
+
+-   [Body, Movement, Language: A.I. Sketches with Bill T. Jones](https://experiments.withgoogle.com/billtjonesai) from Google Creative Lab.
+-   [ballet rotoscope](https://www.youtube.com/watch?v=yzJk6ww3LD0) by Euphrates.
+-   [Messa di Voce](https://vimeo.com/2892576) by Golan Levin, Zach Lieberman, Jaap Blonk, and Joan La Barbara.
+
+#### Music
+
+-   [Body Synth](https://experiments.withgoogle.com/body-synth) by Use All Five & Google Creative Lab.
+-   [Semi-Conductor](https://experiments.withgoogle.com/semi-conductor) from Google Creative Lab.
+-   [This Is Not A Theremin](https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/) by Guillermo Montecinos and Sofía Suazo.
 -   [Sidewalk Orchestra](https://github.com/cvalenzuela/sidewalk_orchestra) by Cristóbal Valenzuela.
 -   [Pose Music](https://codepen.io/teropa/full/QxLrMp/) by Tero Parviainen.
--   [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk.
--   [Gait Analysis](https://www.runnersneed.com/expert-advice/gear-guides/gait-analysis.html) from runnersneed.
--   [Moving morrir](https://experiments.withgoogle.com/move-mirror) from Google Creative Lab.
--   [Semi-Conductor](https://experiments.withgoogle.com/semi-conductor) from Google Creative Lab.
--   [Touch Type](https://experiments.withgoogle.com/touch-type) by Richard Yee.
--   [nixel-Body](http://cmuems.com/2018/60212f/nixel/10/12/nixel-body/) from CMU Interactivity & Computation.
--   [Pose Animator](https://github.com/yemount/pose-animator/) by Shan Huang.
--   [AR Body Filters](https://sheeborshee.com/AR-body-filters-2019) by Daria Sazanovich.
--   [ballet rotoscope](https://www.youtube.com/watch?v=yzJk6ww3LD0) by Euphrates.
--   [Dance with Bubbles](https://sihanzhang.wixsite.com/myspace/machine-learning-for-the-web) by Sihan Zhang.
--   [This Is Not A Theremin](https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/) by Guillermo Montecinos and Sofía Suazo.
--   [Body Synth](https://experiments.withgoogle.com/body-synth) by Use All Five & Google Creative Lab.
 
-### ml5.js Code Examples
+#### Animation
+
+-   [Pose Animator](https://github.com/yemount/pose-animator/) by Shan Huang.
+-   [Puppet Parade - Interactive Kinect Puppets](https://vimeo.com/34824490) by Design I/O.
+
+### Code Examples
 
 -   [BodyPose - MoveNet Keypoints](https://editor.p5js.org/ml5/sketches/c8sl_hGmN)
 -   [BodyPose - MoveNet Skeleton](https://editor.p5js.org/ml5/sketches/vpSI23x0A)
@@ -55,15 +68,20 @@
 
 ## Supplemental Materials
 
--   Read [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo.
--   Read [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0) by Dan Oved and Tyler Zhu, with editing by Irene Alvarado.
--   Read [Pose Animator - An open source tool to bring SVG characters to life in the browser via motion capture](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) by Shan Huang.
--   Read [Feminist Data Set](https://carolinesinders.com/wp-content/uploads/2020/05/Feminist-Data-Set-Final-Draft-2020-0526.pdf), a tool kit to interrogate every step of the AI process by Caroline Sinders.
--   Watch [The Future Is Here!](https://thephotographersgallery.org.uk/whats-on/digital-project/mimi-onuoha-future-here), a commission for The Photographers’ Gallery which examines the process of dataset creation by Mimi Ọnụọha.
--   Watch [Ted Talk: The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) by Cathy O'Neil.
+-   [Feminist Data Set](https://carolinesinders.com/wp-content/uploads/2020/05/Feminist-Data-Set-Final-Draft-2020-0526.pdf), a tool kit to interrogate every step of the AI process by Caroline Sinders.
+-   [The Future Is Here!](https://thephotographersgallery.org.uk/whats-on/digital-project/mimi-onuoha-future-here), a commission for The Photographers’ Gallery which examines the process of dataset creation by Mimi Ọnụọha.
+-   [Ted Talk: The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) by Cathy O'Neil.
     -   Cathy O'Neil's [Risk Consulting & Algorithmic Auditing firm](https://orcaarisk.com/).
 
-### ml5.js Video Tutorials
+### Technical Blog Posts
+
+-   [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo. [ [Original Paper](https://arxiv.org/pdf/1803.08225) ]
+-   [Next-Generation Pose Detection with MoveNet and TensorFlow.js](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html) by Ronny Votel and Na Li.
+-   [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0) by Dan Oved and Tyler Zhu, with editing by Irene Alvarado.
+-   [Body Segmentation with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2022/01/body-segmentation.html) by Ivan Grishchenko, Valentin Bazarevsky, Ahmed Sabie, and Jason Mayes.
+-   [Pose Animator - An open source tool to bring SVG characters to life in the browser via motion capture](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) by Shan Huang.
+
+### Video Tutorials
 
 _Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 
@@ -71,7 +89,7 @@ _Note: ml5.js tutorials below were taught using an older version of ml5.js, refe
 -   [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://www.youtube.com/watch?v=FYgYyq-xqAw&t=1197s) by Daniel Shiffman
 -   [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork() - video tutorial](https://www.youtube.com/watch?v=lob74HqHYJ0) by Daniel Shiffman
 
-### Assignment 3
+## Assignment 3
 
 1. Read [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596) by Maya Man.
 2. Read [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt.
