@@ -34,30 +34,6 @@
 -   [Sound Classification - Speech Commands](https://editor.p5js.org/ml5/sketches/HUm7NYMW3)
 -   [Webcam Image Classification with Teachable Machine Demo](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/02-transfer-learning/webcam-image-classification-with-teachable-machine/) hosted on GitHub. [ [Source Code](webcam-image-classification-with-teachable-machine) ]
 
-### Local Development and Hosting
-
-#### Running p5.js Sketches Locally
-
-_Note: You can learn about other methods on this [p5.js local server Wiki page](https://github.com/processing/p5.js/wiki/Local-server)._
-
-1.  Download and install [Visual Studio Code](https://code.visualstudio.com).
-2.  Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension within Visual Studio Code.
-3.  Download your p5.js sketch from the Web Editor and unzip it.
-4.  Open the unzipped folder in Visual Studio Code.
-5.  Select `index.html` file and click _Go Live_.
-
-#### Hosting p5.js Sketches on GitHub
-
-1. Sign up for a [GitHub](https://github.com) account.
-2. Create a repository. [ [GitHub Docs: Create a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories#create-a-repository) ]
-3. Download your p5.js sketch from the Web Editor and unzip it.
-4. Add all the files in the unzipped folder to your repository and commit the changes. [ [GitHub Docs: Adding a file to a repository](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) ]
-5. On your repository page, go to Settings > Pages:
-    1. Under _Source_, choose _Deploy from a branch_.
-    2. Under _Branch_, choose _main_.
-    3. Click _Save_.
-6. Refresh the page after a while. You should see a link to your site near the top of th page once it becomes available.
-
 ### Related Projects
 
 #### Accessibility
@@ -85,8 +61,9 @@ _Note: You can learn about other methods on this [p5.js local server Wiki page](
 
 ## Supplemental Materials
 
--   Watch [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown.
--   Read [How to Build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) by Nikhil Thorat.
+-   [Local Development and Hosting Resources Wiki Page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Local-Development-and-Hosting-Resources) by Jack B. Du.
+-   [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown.
+-   [How to Build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) by Nikhil Thorat.
 
 ### Video Tutorials
 
