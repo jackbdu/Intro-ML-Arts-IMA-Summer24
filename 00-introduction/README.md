@@ -79,10 +79,10 @@
 
 ## Supplemental Materials
 
--   Read [What is machine learning?](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao.
--   Read [Algorithmic Accountability: A Primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) from Data & Society.
--   Watch [Seeing Machines Think](https://youtu.be/ugkfmHBW74Q) by Martin Wattenberg and Fernanda Viégas.
--   Watch [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
+-   [What is machine learning?](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/) by Karen Hao.
+-   [Algorithmic Accountability: A Primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) from Data & Society.
+-   [Seeing Machines Think](https://youtu.be/ugkfmHBW74Q) by Martin Wattenberg and Fernanda Viégas.
+-   [Weird Intelligence](https://vimeo.com/304110435) by Kyle McDonald.
 
 ### Video Tutorials
 

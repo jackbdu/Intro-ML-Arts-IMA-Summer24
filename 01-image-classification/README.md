@@ -29,6 +29,8 @@
 -   [ml5.imageClassifier Reference](https://docs.ml5js.org/#/reference/image-classifier)
     -   [ml5.imageClassifier Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/ImageClassifier)
     -   [TensorFlow.js MobileNet Source Code](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet)
+-   [TensorFlow.js models](https://www.tensorflow.org/js/models)
+    -   [TensorFlow.js demos](https://www.tensorflow.org/js/demos)
 
 ### Code Examples
 
@@ -41,9 +43,9 @@
 
 ## Supplemental Materials
 
--   Read [A Brief History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov.
--   Read [ImageNet: The Data That Transformed AI Research—and Possibly the World](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/) by Dave Gershgorn.
--   Watch [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li (_Note: Fei-Fei Li is no longer at Google; she is currently Co-Director of the Stanford Human-Centered AI Institute_).
+-   [A Brief History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) by Andrey Kurenkov.
+-   [ImageNet: The Data That Transformed AI Research—and Possibly the World](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/) by Dave Gershgorn.
+-   [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li (_Note: Fei-Fei Li is no longer at Google; she is currently Co-Director of the Stanford Human-Centered AI Institute_).
 
 ### Video Tutorials
 

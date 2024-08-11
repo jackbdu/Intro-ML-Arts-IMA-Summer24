@@ -4,18 +4,21 @@
 
 ## Objectives
 
--   Understand what pose estimation is and how it works.
+-   Learn about TensorFlow Pose Estimation model and how it works.
+-   Learn about TensorFlow Body Segmentation model and how it works.
 -   Learn the differences between MoveNet and BlazePose and how to choose between them.
--   Understand what body segmentation and how it works.
 -   Learn the differences between BodyPix and SelfieSegmentation and how to choose between them.
+-   Learn to work with ml5.bodyPose and ml5.bodySegmentation.
 
 ## Lecture Notes
 
-### Models
+### Tools
 
 -   [ml5.bodyPose Reference](https://docs.ml5js.org/#/reference/bodypose)
     -   [ml5.bodyPose Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodyPose)
     -   [TensorFlow.js Pose Detection Source Code](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection)
+    -   [MoveNet.SinglePose Model Card](https://storage.googleapis.com/movenet/MoveNet.SinglePose%20Model%20Card.pdf)
+    -   [MediaPipe BlazePose CHUM 3D Model Card](https://drive.google.com/file/d/10WlcTvrQnR_R2TdTmKw0nkyRLqrwNkWU/)
 -   [ml5.bodySegmentation Reference](https://docs.ml5js.org/#/reference/body-segmentation)
     -   [ml5.bodySegmentation Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/BodySegmentation)
     -   [TensorFlow.js Body Segmentation Source Code](https://github.com/tensorflow/tfjs-models/tree/master/body-segmentation)
@@ -53,18 +56,23 @@
 
 ### Code Examples
 
+#### Core Functionalities
+
 -   [BodyPose - MoveNet Keypoints](https://editor.p5js.org/ml5/sketches/c8sl_hGmN)
 -   [BodyPose - MoveNet Skeleton](https://editor.p5js.org/ml5/sketches/vpSI23x0A)
 -   [BodyPose - BlazePose Keypoints](https://editor.p5js.org/ml5/sketches/OukJYAJAb)
 -   [BodyPose - BlazePose Skeleton](https://editor.p5js.org/ml5/sketches/KWgsAbgkk)
--   [BodyPose - Drawing with Nose](https://editor.p5js.org/jackbdu/sketches/bUsDnrEbv)
--   [BodyPose - Trailing Effect](https://editor.p5js.org/jackbdu/sketches/eQTjLNK35)
--   [BodyPose - Cat or Dog](https://editor.p5js.org/jackbdu/sketches/26sLU0Ub-)
 -   [BodySegmentation - Mask Background with SelfieSegmentation](https://editor.p5js.org/ml5/sketches/KNsdeNhrp)
 -   [BodySegmentation - Mask Person with SelfieSegmentation](https://editor.p5js.org/ml5/sketches/h6TN8umP5)
 -   [BodySegmentation - Mask Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/ruoyal-RC)
 -   [BodySegmentation - Mask Select Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/R5rug0HKk)
--   [Additional examples from Yining Shi](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week3-pose) (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._)
+
+#### Creative Applications
+
+-   [BodyPose - Drawing with Nose](https://editor.p5js.org/jackbdu/sketches/bUsDnrEbv)
+-   [BodyPose - Trailing Effect](https://editor.p5js.org/jackbdu/sketches/eQTjLNK35)
+-   [BodyPose - Cat or Dog](https://editor.p5js.org/jackbdu/sketches/26sLU0Ub-)
+-   [Additional examples](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week3-pose) from Yining Shi (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._)
 
 ## Supplemental Materials
 
@@ -77,6 +85,7 @@
 
 -   [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo. [ [Original Paper](https://arxiv.org/pdf/1803.08225) ]
 -   [Next-Generation Pose Detection with MoveNet and TensorFlow.js](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html) by Ronny Votel and Na Li.
+-   [3D Pose Detection with MediaPipe BlazePose GHUM and TensorFlow.js](https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html) by Ivan Grishchenko, Valentin Bazarevsky, Eduard Gabriel Bazavan, Na Li, Jason Mayes.
 -   [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0) by Dan Oved and Tyler Zhu, with editing by Irene Alvarado.
 -   [Body Segmentation with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2022/01/body-segmentation.html) by Ivan Grishchenko, Valentin Bazarevsky, Ahmed Sabie, and Jason Mayes.
 -   [Pose Animator - An open source tool to bring SVG characters to life in the browser via motion capture](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) by Shan Huang.
