@@ -6,9 +6,9 @@
 
 -   Learn steps to construct a vanilla neural network and train a classification model with ml5.js.
 -   Understand Neural Network architecture.
-    -   What is a Perceptron?
+    -   What is a perceptron?
     -   What is a multi-layered perceptron?
-    -   Activation Functions
+    -   What are activation functions?
 -   Understand the terminology of the training process.
     -   Training
     -   Learning rate
@@ -18,48 +18,47 @@
 -   Understand the difference between training and inference.
 -   Revisit and examine the concepts of classification and regression as applied to real-time interaction.
 
-## Outline
+## Lecture Notes
 
-### Model
+### Tools
 
--   [NeuralNetwork](https://docs.ml5js.org/#/reference/neural-network)
+-   [ml5.neuralNetwork Reference](https://docs.ml5js.org/#/reference/neural-network)
+    -   [ml5.neuralNetwork Source Code](https://github.com/ml5js/ml5-next-gen/tree/main/src/NeuralNetwork)
+    -   [TensorFlow.js Source Code](https://github.com/tensorflow/tfjs)
 
-### Perceptron
-
--   Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. [ [Read original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf) \| [More on its history](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/Neural-Networks-History) ]
-
-### 7 Steps of Machine Learning
-
-1. Gathering Data
-2. Preparing that Data
-3. Choosing a Model
-4. Training
-5. Evaluation
-6. Hyperparameter Tuning
-7. Prediction
-
-### ml5.js Code Examples
+### Code Examples
 
 -   [NeuralNetwork - Color Classifier](https://editor.p5js.org/ml5/sketches/eGHBdmCLe)
 -   [NeuralNetwork - Mouse Gesture](https://editor.p5js.org/ml5/sketches/FdXAgrA3N)
 -   [NeuralNetwork - Train and Save](https://editor.p5js.org/ml5/sketches/rR51vvi-u)
 -   [NeuralNetwork - Load Model](https://editor.p5js.org/ml5/sketches/U-aljtx7x)
+-   [Neural Network demos](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week8-diynn) from Yining Shi. (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._)
 
 ## Supplemental Materials
 
--   Watch [The 7 steps of machine learning](https://www.youtube.com/watch?v=nKW8Ndu7Mjw) from Google Cloud Tech.
--   Watch [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown.
--   Watch [10. Neural Networks - Nature of Code - video tutorials](https://youtu.be/XJ7HLz9VYz0?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) by Daniel Shiffman.
--   Read [Chapter 10: Neural Network, Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/) by Daniel Shiffman.
--   Explore [Neural Network demos](https://github.com/yining1023/machine-learning-for-the-web/tree/main/week8-diynn) from Yining Shi. (_Note: these demos were created with an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._)
+-   [The 7 steps of machine learning](https://www.youtube.com/watch?v=nKW8Ndu7Mjw) from Google Cloud Tech.
+-   [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown.
+-   [10. Neural Networks - Nature of Code - video tutorials](https://youtu.be/XJ7HLz9VYz0?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) by Daniel Shiffman.
+-   [Chapter 10: Neural Network, Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/) by Daniel Shiffman.
+-   [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) from Google.
 
-### ml5.js Video Tutorials
+### Video Tutorials
 
 _Note: ml5.js tutorials below were taught using an older version of ml5.js, refer to the [ml5.js Resources Wiki page](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki/ml5.js-Resources) for more information._
 
+#### Neural Network Concepts
+
+-   [Neural Networks: Perceptron Part 1 - video tutorial](https://www.youtube.com/watch?v=ntKn5TPHHAk) by Daniel Shiffman.
+-   [Neural Networks: Perceptron Part 2 - video tutorial](https://www.youtube.com/watch?v=DGxIcDjPzac) by Daniel Shiffman.
+-   [Neural Networks: Multilayer Perceptron Part 1 - video tutorial](https://www.youtube.com/watch?v=u5GAVdLQyIg) by Daniel Shiffman.
+-   [Neural Networks: Multilayer Perceptron Part 2 - video tutorial](https://www.youtube.com/watch?v=IlmNhFxre0w) by Daniel Shiffman.
+-   [Neural Networks: Matrix Math Part 1 - video tutorial](https://www.youtube.com/watch?v=uSzGdfdOoG8) by Daniel Shiffman.
+-   [Neural Networks: Matrix Math Part 2 - video tutorial](https://www.youtube.com/watch?v=n6q9D2wd1bE) by Daniel Shiffman.
+
+#### Neural Network Training
+
 -   [ml5.js: Train Your Own Neural Network - video tutorial](https://youtu.be/8HEgeAbYphA?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Save Neural Network Training Data - video tutorial](https://youtu.be/q6cwxORPDo8?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
--   [ml5.js: Train a Neural Network with Pixels as Input - video tutorial](https://youtu.be/UaKab6h9Z0I?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5: Neural Network Regression - video tutorial](https://youtu.be/fFzvwdkzr_c?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://youtu.be/FYgYyq-xqAw?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
 -   [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork() - video tutorial](https://youtu.be/lob74HqHYJ0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by Daniel Shiffman.
