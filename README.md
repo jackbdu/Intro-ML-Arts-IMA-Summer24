@@ -4,7 +4,7 @@ _This is a living document and is subject to change._
 
 ## Course Info
 
--   [IMNY-UT 224 Introduction to Machine Learning for the Arts](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/) [ [GitHub Repo](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24) ]
+-   [IMNY-UT 224 Introduction to Machine Learning for the Arts](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/) [ [GitHub Repo](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24) \| [Wiki](https://github.com/jackbdu/Intro-ML-Arts-IMA-Summer24/wiki) ]
 -   Interactive Media Arts (IMA), Tisch School of the Arts, New York University
 -   370 Jay Street, Room 412, Brooklyn, NY 11201
 -   Tuesday/Thursday 6:00 PM – 9:30 PM (7/9/2024 – 8/15/2024)
