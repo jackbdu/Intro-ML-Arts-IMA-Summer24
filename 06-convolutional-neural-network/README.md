@@ -65,6 +65,7 @@
 -   [How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/) by Timothy B. Lee.
 -   [A visual and intuitive understanding of deep learning, CNNs](https://www.youtube.com/watch?v=Oqm9vsf_hvU) (0:00–9:40) by Octavio Good.
 -   [Recognizing Human Facial Expressions With Machine Learning](https://thoughtworksarts.io/blog/recognizing-facial-expressions-machine-learning/) by Angelica Perez.
+-   [Convolutional Neural Networks - The Math of Intelligence](https://www.youtube.com/watch?v=FTr3n7uBIuE) by Siraj Raval.
 
 ### Visualizations and Demos
 
