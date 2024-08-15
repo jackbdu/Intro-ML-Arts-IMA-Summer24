@@ -99,7 +99,7 @@ Classes will be a mixture of lecture, discussion, hands-on tutorials, homework r
 
 ## Course Schedule
 
-The course will be once (1) per week for three and half (3.5) hours for a total of six (6) weeks.
+The course will be twice (2) per week for three and half (3.5) hours for a total of six (6) weeks.
 
 ## Assignments
 
