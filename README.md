@@ -13,7 +13,7 @@ _This is a living document and is subject to change._
 
 -   [Jack B. Du](https://jackbdu.com/about)
 -   jackbdu@nyu.edu
--   Office Hours: Monday/Wednesday 2:00 PM – 4:00 PM [ [Book Appointment](https://calendar.app.google/3bKiLqojNgUa6byBA) ]
+-   Office Hours: Monday/Wednesday 2:00 PM – 4:00 PM [ ~~Book Appointment~~ ]
 
 ## Weekly Schedule
 
